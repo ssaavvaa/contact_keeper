@@ -1,0 +1,62 @@
+
+.NavBar{
+    background:rgb(9, 34, 58);
+    color:white;
+    padding:15px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.NavBar h1 {
+    font-size: 2rem;
+}
+
+.NavBar ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Link {
+    color:white;
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+.Link:hover {
+    text-decoration: none;
+    color:rgb(199, 185, 185);
+    
+}
+
+@media only screen and (max-width: 800px) {
+    .NavBar{
+        background:rgb(9, 34, 58);
+        color:white;
+        padding:15px 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .NavBar h1 {
+        margin-bottom: 5px;
+    }
+    .NavBar ul {
+     
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .NavBar li {
+        margin-bottom: 5px;
+    }
+  }

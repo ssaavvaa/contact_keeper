@@ -1,0 +1,28 @@
+.register-container{
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+    max-width: 400px;
+}
+
+.register-container input{
+    padding:5px;
+    margin-bottom:10px;
+}
+
+.register-container label {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.register-wrapper h1{
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.register-container button {
+    color:white;
+    font-size: 1.5rem;
+    padding:7px;
+    background:#0069ed;
+}

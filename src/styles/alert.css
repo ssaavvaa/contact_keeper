@@ -1,0 +1,16 @@
+
+
+
+.alertRed{
+    position:relative;
+    top:0;
+    left:0;
+    width:100%;
+    background:
+    linear-gradient(to right , transparent, rgb(134, 53, 6), transparent);
+    margin-bottom: 20px;
+    background-blend-mode: screen;
+    padding:10px;
+    color:white;
+    font-size: 1.5rem;
+}

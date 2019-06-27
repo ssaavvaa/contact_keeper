@@ -1,0 +1,28 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+    max-width: 400px;
+}
+
+.login-container input{
+    padding:5px;
+    margin-bottom:10px;
+}
+
+.login-container label {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.login-wrapper h1{
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.login-container button {
+    color:white;
+    font-size: 1.5rem;
+    padding:7px;
+    background:#0069ed;
+}
