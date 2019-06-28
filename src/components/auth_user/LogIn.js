@@ -38,7 +38,7 @@ const Login = (props) => {
 
     const onSubmit = e => {
         e.preventDefault()
-    
+
         if(email === '' || email === null){
            return setAlert("Please enter an Email!", "danger", 3000)
         }
