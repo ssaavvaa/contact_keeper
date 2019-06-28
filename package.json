@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "https://notes-anton.herokuapp.com",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
