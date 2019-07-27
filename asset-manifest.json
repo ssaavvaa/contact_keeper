@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/contact_keeper/static/css/main.8a57dd70.chunk.css",
-    "main.js": "/contact_keeper/static/js/main.ed9c7fa6.chunk.js",
-    "main.js.map": "/contact_keeper/static/js/main.ed9c7fa6.chunk.js.map",
-    "runtime~main.js": "/contact_keeper/static/js/runtime~main.379abdcf.js",
-    "runtime~main.js.map": "/contact_keeper/static/js/runtime~main.379abdcf.js.map",
-    "static/js/2.5d0e79c8.chunk.js": "/contact_keeper/static/js/2.5d0e79c8.chunk.js",
-    "static/js/2.5d0e79c8.chunk.js.map": "/contact_keeper/static/js/2.5d0e79c8.chunk.js.map",
-    "index.html": "/contact_keeper/index.html",
-    "precache-manifest.f3e7417f5f3fa7a3d0cbec317696a3f5.js": "/contact_keeper/precache-manifest.f3e7417f5f3fa7a3d0cbec317696a3f5.js",
-    "service-worker.js": "/contact_keeper/service-worker.js",
-    "static/css/main.8a57dd70.chunk.css.map": "/contact_keeper/static/css/main.8a57dd70.chunk.css.map"
+    "main.css": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/css/main.8a57dd70.chunk.css",
+    "main.js": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/main.fcfb7786.chunk.js",
+    "main.js.map": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/main.fcfb7786.chunk.js.map",
+    "runtime~main.js": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/runtime~main.cc718f38.js",
+    "runtime~main.js.map": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/runtime~main.cc718f38.js.map",
+    "static/js/2.5d0e79c8.chunk.js": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/2.5d0e79c8.chunk.js",
+    "static/js/2.5d0e79c8.chunk.js.map": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/js/2.5d0e79c8.chunk.js.map",
+    "index.html": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/index.html",
+    "precache-manifest.bcbf6c660b4506d1cacb389cb28e9036.js": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/precache-manifest.bcbf6c660b4506d1cacb389cb28e9036.js",
+    "service-worker.js": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/service-worker.js",
+    "static/css/main.8a57dd70.chunk.css.map": "/contact_keeper__REACT_HOOKS-EXPRESS-MONGODB/static/css/main.8a57dd70.chunk.css.map"
   }
 }
